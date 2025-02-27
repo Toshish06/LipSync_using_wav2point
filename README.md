@@ -6,7 +6,7 @@ Step 1: Convert Text to Speech using gTTS
 
 Refer to the file "text_audio" for generating speech audio using gTTS.
 
-🔹 Step 2: Convert Image to Video using FFmpeg
+Step 2: Convert Image to Video using FFmpeg
 
 Refer to the file "img_video" for converting an image into a video using FFmpeg.
 
