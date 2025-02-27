@@ -1,4 +1,4 @@
-# LipSync_using_wav2point
+# LipSync_using_wav2Lip
 
 This guide provides step-by-step instructions to generate a lip-synced video using the Wav2Lip model. It also covers converting text to speech (TTS) using gTTS and image to video using FFmpeg, which are prerequisites for lip-syncing.
 
